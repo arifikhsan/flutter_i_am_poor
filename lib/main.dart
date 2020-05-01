@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 main() {
   runApp(
     MaterialApp(
-      title: 'I am poor challenge',
+      title: 'I am poor',
       home: Scaffold(
         appBar: AppBar(
           backgroundColor: Colors.grey.shade800,
